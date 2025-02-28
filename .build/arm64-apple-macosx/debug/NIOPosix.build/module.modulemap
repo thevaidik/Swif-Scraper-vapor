@@ -1,0 +1,4 @@
+module NIOPosix {
+    header "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/NIOPosix.build/NIOPosix-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module VaporTesting {
+    header "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/VaporTesting.build/VaporTesting-Swift.h"
+    requires objc
+}

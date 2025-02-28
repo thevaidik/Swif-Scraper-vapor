@@ -1,0 +1,4 @@
+module Tracing {
+    header "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/Tracing.build/Tracing-Swift.h"
+    requires objc
+}

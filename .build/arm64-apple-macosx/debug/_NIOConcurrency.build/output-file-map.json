@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/_NIOConcurrency.build/master.swiftdeps"
+  },
+  "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/checkouts/swift-nio/Sources/_NIOConcurrency/Empty.swift": {
+    "dependencies": "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/_NIOConcurrency.build/Empty.d",
+    "object": "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/_NIOConcurrency.build/Empty.swift.o",
+    "swiftmodule": "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/_NIOConcurrency.build/Empty~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/_NIOConcurrency.build/Empty.swiftdeps"
+  }
+}

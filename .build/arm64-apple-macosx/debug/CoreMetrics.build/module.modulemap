@@ -1,0 +1,4 @@
+module CoreMetrics {
+    header "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/CoreMetrics.build/CoreMetrics-Swift.h"
+    requires objc
+}

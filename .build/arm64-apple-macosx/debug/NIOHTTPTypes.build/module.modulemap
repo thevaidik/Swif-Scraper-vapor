@@ -1,0 +1,4 @@
+module NIOHTTPTypes {
+    header "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/NIOHTTPTypes.build/NIOHTTPTypes-Swift.h"
+    requires objc
+}

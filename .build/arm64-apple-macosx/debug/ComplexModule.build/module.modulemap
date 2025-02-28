@@ -1,0 +1,4 @@
+module ComplexModule {
+    header "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/ComplexModule.build/ComplexModule-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module InternalCollectionsUtilities {
+    header "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/InternalCollectionsUtilities.build/InternalCollectionsUtilities-Swift.h"
+    requires objc
+}

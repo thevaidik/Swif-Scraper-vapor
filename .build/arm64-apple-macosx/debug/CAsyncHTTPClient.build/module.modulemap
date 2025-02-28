@@ -1,0 +1,4 @@
+module CAsyncHTTPClient {
+    umbrella header "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/checkouts/async-http-client/Sources/CAsyncHTTPClient/include/CAsyncHTTPClient.h"
+    export *
+}

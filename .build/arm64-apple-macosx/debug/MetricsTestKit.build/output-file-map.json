@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/MetricsTestKit.build/master.swiftdeps"
+  },
+  "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/checkouts/swift-metrics/Sources/MetricsTestKit/TestMetrics.swift": {
+    "dependencies": "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/MetricsTestKit.build/TestMetrics.d",
+    "object": "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/MetricsTestKit.build/TestMetrics.swift.o",
+    "swiftmodule": "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/MetricsTestKit.build/TestMetrics~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/MetricsTestKit.build/TestMetrics.swiftdeps"
+  }
+}

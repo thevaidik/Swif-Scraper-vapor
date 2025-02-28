@@ -1,0 +1,4 @@
+module _CryptoExtras {
+    header "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/_CryptoExtras.build/_CryptoExtras-Swift.h"
+    requires objc
+}

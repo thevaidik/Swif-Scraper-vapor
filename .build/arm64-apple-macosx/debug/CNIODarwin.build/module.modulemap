@@ -1,0 +1,4 @@
+module CNIODarwin {
+    umbrella header "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/checkouts/swift-nio/Sources/CNIODarwin/include/CNIODarwin.h"
+    export *
+}

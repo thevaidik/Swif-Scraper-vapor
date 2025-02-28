@@ -1,0 +1,4 @@
+module Atomics {
+    header "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/Atomics.build/Atomics-Swift.h"
+    requires objc
+}

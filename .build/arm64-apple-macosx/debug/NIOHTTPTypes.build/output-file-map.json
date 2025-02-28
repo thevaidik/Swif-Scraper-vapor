@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/NIOHTTPTypes.build/master.swiftdeps"
+  },
+  "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/checkouts/swift-nio-extras/Sources/NIOHTTPTypes/NIOHTTPTypes.swift": {
+    "dependencies": "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/NIOHTTPTypes.build/NIOHTTPTypes.d",
+    "object": "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/NIOHTTPTypes.build/NIOHTTPTypes.swift.o",
+    "swiftmodule": "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/NIOHTTPTypes.build/NIOHTTPTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/vaidikdubey/Develop/Swif Scraper microservice/.build/arm64-apple-macosx/debug/NIOHTTPTypes.build/NIOHTTPTypes.swiftdeps"
+  }
+}
